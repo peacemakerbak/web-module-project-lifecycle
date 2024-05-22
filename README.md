@@ -2,7 +2,7 @@
 
 This module explored lifecycle methods in class components. In your project you will demonstrate proficiency of these concepts by building a todo app that can interact with an API to read, create and edit todos.  
 
-(make sure its working)
+
 
 ## Skills You Will Practice 
 
